@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, music, physics and a lot more...
 - 🌱 I’m currently learning data sciene, git, programming.
 - 💞️ I’m looking to collaborate on data science projects.
-- 📫 How to reach me: konradkamieniecki@gmail.com
+- 📫 How to reach me: konradkamieniecki(at)gmail.com
 
 <!---
 konradkam85/konradkam85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
